@@ -8,11 +8,6 @@ const router = createBrowserRouter([
     element: <Home />,
     errorElement: <Error />,
   },
-  // {
-  //   path: '/login',
-  //   element: <Login />,
-  //   errorElement: <Error />,
-  // },
 ]);
 
 const App = () => {

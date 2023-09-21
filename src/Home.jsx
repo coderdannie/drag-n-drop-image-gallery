@@ -6,7 +6,6 @@ import Photos from './components/Photos';
 
 const Home = () => {
   const [query, setQuery] = useState('');
-
   return (
     <>
       <Nav />;
