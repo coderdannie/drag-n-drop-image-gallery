@@ -61,7 +61,7 @@ const Photos = ({ query }) => {
         <Droppable droppableId="characters">
           {(provided) => (
             <ul
-              className="cards py-[5rem]"
+              className="cards py-[5rem] fade-in"
               {...provided.droppableProps}
               ref={provided.innerRef}
             >

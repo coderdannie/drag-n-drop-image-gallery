@@ -33,6 +33,16 @@
   border-top-color: var(--clr-primary-5);
   animation: spinner 0.6s linear infinite;
 }
-.overlay {
-  background-color: rgba(0, 0, 0, 0.637);
+.cards {
+  animation: app-load 1.5s ease-in-out forwards;
+  transform: scale(0);
+}
+@keyframes app-load {
+  0% {
+    transform: scale(0);
+  }
+
+  100% {
+    transform: scale(1);
+  }
 }

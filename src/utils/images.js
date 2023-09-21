@@ -11,7 +11,7 @@ const images = [
   },
   {
     id: '3',
-    img: 'https://images.unsplash.com/photo-1524450239752-ddd212cac0b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDQ1NzR8MHwxfHNlYXJjaHw3Mnx8Y2l0eXxlbnwwfHx8fDE2OTUxNjQwMTV8MA&ixlib=rb-4.0.3&q=80&w=1080',
+    img: 'https://images.unsplash.com/photo-1451976426598-a7593bd6d0b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDQ1NzR8MHwxfHNlYXJjaHw4fHxhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNjk1MTY1NjE0fDA&ixlib=rb-4.0.3&q=80&w=1080',
     tags: ['nature', 'landscape'],
   },
 
